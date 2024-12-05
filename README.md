@@ -2,3 +2,16 @@ Genome-scale metabolic models (GSMMs) are comprehensive representations of an or
 
 This repository leverages GSMMs to study E. coli metabolism, analyze metabolic diversity within gut microbiota using AGORA models, and construct community models to explore microbial interactions.
 
+**Contents**
+1) E. coli Model Analysis
+   
+    [Model Inspection](https://github.com/RashmiKaldera/RotationProject---Microbial-Metabolic-Modeling-and-Analysis/blob/main/Notebooks/Ecoli_CoreModel_Inspection.ipynb)
+   
+    [Model Simulation](https://github.com/RashmiKaldera/RotationProject---Microbial-Metabolic-Modeling-and-Analysis/blob/main/Notebooks/Ecoli_CoreModel_Simulation.ipynb)
+   
+    [Model Pertubation](https://github.com/RashmiKaldera/RotationProject---Microbial-Metabolic-Modeling-and-Analysis/blob/main/Notebooks/Ecoli_CoreModel_Pertubation.ipynb)
+3) Agora Models Analysis
+   
+    [Model Clustering](https://github.com/RashmiKaldera/RotationProject---Microbial-Metabolic-Modeling-and-Analysis/blob/main/Notebooks/Agora_100_models.ipynb)
+   
+    [Community Modeling](https://github.com/RashmiKaldera/RotationProject---Microbial-Metabolic-Modeling-and-Analysis/blob/main/Notebooks/PyCoMo.ipynb)
